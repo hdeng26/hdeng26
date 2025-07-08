@@ -33,7 +33,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hdeng26&theme=default)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=hdeng26&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=hdeng26&theme=monokai&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=hdeng26&color=blue)
 
