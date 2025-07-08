@@ -27,10 +27,14 @@
 
 ### 📊 GitHub Stats
 
-![Haojin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdeng26&show_icons=true&theme=default&hide_title=true)
+![Haojin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdeng26&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdeng26&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdeng26&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hdeng26)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hdeng26&theme=default)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=hdeng26&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=hdeng26&color=blue)
 
 
