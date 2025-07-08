@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Haojin Deng
 
-<!--
-**hdeng26/hdeng26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD Candidate @ Western University  
+🧠 Researching **contrastive learning**, **debiasing** models, and real-world applications in **healthcare** and **multi-modality**  
+🔬 Building trustworthy, generalizable machine learning systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 What I’m Working On
+- 📚 Exploring how **bias mitigation** in contrastive learning can improve real-world AI robustness
+- 🧪 Bridging the gap between academic research and **healthcare AI services**
+- 📦 Developing tools and benchmarks for evaluating **representation quality** and **model fairness**
+
+---
+
+### 🛠️ Tech Stack
+`Python` | `PyTorch` | `Hugging Face` | `Sklearn` | `WandB`  
+`Docker` | `Git` | `Slurm` | `LaTeX` | `LLM CLI & Cursor`
+
+---
+
+### 🤝 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/haojin-1020/)
+- 📨 hdeng26@uwo.ca
+
+---
+
+### 📊 GitHub Stats
+
+![Haojin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdeng26&show_icons=true&theme=default&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdeng26&layout=compact&theme=default)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hdeng26)](https://github.com/ryo-ma/github-profile-trophy)
+
+
