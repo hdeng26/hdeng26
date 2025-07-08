@@ -35,6 +35,4 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=hdeng26&color=blue)
 
-![Public Repos](https://img.shields.io/github/public-repos/hdeng26?label=Public%20Repos)
-
 
